@@ -41,7 +41,7 @@ LibraryManagementSystem/
 ### Installation Steps:
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/MuhammadBurhanArshad/Java_BookManagementSystem.git
     ```
 
 2. **Navigate to the `src` directory**:
